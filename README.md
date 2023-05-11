@@ -1,4 +1,4 @@
-# Pasta-com-testes-avulsos-de-conhecimentos-em-JS
+# Pasta com testes avulsos de conhecimentos em JS
 
 ## - Na calculadora:
 Usei da criação de um objeto chamado "operacoes" que mapeia cada operação à sua função correspondente.
