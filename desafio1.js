@@ -8,7 +8,7 @@ A função deve receber um array de números inteiros como parâmetro.
 A função deve retornar a soma dos números pares do array.
 Se o array estiver vazio ou não contiver números pares, a função deve retornar zero.
 
-// Exemplo de Uso.
+// Exemplo para Uso.
 const numeros = [1, 2, 3, 4, 5, 6];
 const resultado = somaNumerosPares(numeros);
 console.log(resultado); // deverá exibir 12
